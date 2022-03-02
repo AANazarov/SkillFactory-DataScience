@@ -60,6 +60,10 @@ def number_predict(number_in: int=1) -> int:
         if number_predicted < number_in:
             number_low = number_predicted
         elif number_predicted > number_in:
+            """Условие, предотвращающее зацикливание алгоритма при 
+            округлении к нижней границе
+                A condition that prevents the algorithm from looping 
+            when rounding to the lower bound"""
             if number_predicted == 2:
                 number_predicted = 1
                 break
