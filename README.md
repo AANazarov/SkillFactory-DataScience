@@ -11,8 +11,9 @@
 ### ***Table of contents / Оглавление***
 [Project Description / Описание проекта](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Project-Description-/-Описание-проекта)  
 [Task description / Описание задачи](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Task-description-/-Описание-задачи)  
-[Data / Данные](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Data-/- Данные)  
-[Other / Прочее](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Other-/-Прочее)  
+[Data / Данные](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Data-/-Данные)  
+[Stage of work / Этапы работы](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Stage-of-work-/-Этапы-работы)  
+[Results / Результаты](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Results-/-Результаты)  
 ***   
 
 ### ***Project Description / Описание проекта***
@@ -31,10 +32,10 @@ The program also processes statistical data on guessing numbers: calculates the 
 
 ### ***Data / Данные***
 The initial data is generated as a uniformly distributed random variable..  
-Исходные данные - генерируются как равномерно распределенная случайная величина..
+Исходные данные - генерируются как равномерно распределенная случайная величина.
 ***  
 
-### ***Stages of work on the project / Этапы работы над проектом***
+### ***Stage of work / Этапы работы***
 * Software implementation of the half division algorithm  
   Программная реализация алгоритма половинного деления
 * Software implementation of statistical processing of results  
@@ -45,7 +46,7 @@ The initial data is generated as a uniformly distributed random variable..
   Подведение итогов. Выводы
 ***  
 
-### ***Other / Прочее***
+### ***Results / Результаты***
 ***  
 
 &uarr; [To the table of contents / К оглавлению](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Table-of-contents-/-Оглавление)
