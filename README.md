@@ -19,7 +19,8 @@
 ### ***Project Description / Описание проекта***
 Creating a Python program that guesses a number in the minimum number of attempts.  
 
-Создание программы на Python, которая угадывает число за минимальное число попыток.
+Создание программы на Python, которая угадывает число за минимальное число 
+попыток.
 ***  
 
 ### ***Task description / Описание задачи***
@@ -47,6 +48,10 @@ The initial data is generated as a uniformly distributed random variable..
 ***  
 
 ### ***Results / Результаты***
+1. It is established that the half division algorithm allows you to guess an integer (a uniformly distributed random variable in the range from 1 to 100), on average in 5 attempts (with the number of tests equal to 1000).  
+Установлено, что алгоритм половинного деления позволяет угадать целое число(равномерно распределенная случайная величина в интервале от 1 до 100), в среднем за 5 попыток (при количестве испытаний равным 1000).  
+2. When implementing the algorithm, it is necessary to eliminate the problem of looping the algorithm when rounding to the lower bound.   
+При реализации алгоритма необходимо устранить проблему зацикливания алгоритма при округлении к нижней границе.    
 ***  
 
 &uarr; [To the table of contents / К оглавлению](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Table-of-contents-/-Оглавление)
