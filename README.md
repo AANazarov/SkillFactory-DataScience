@@ -1,6 +1,9 @@
-# PYTHON-8. Инструменты для Data Science / Tools for Data Science
+# PYTHON-8. Tools for Data Science / Инструменты для Data Science
 
-## Оглавление / Table of contents
-[1.Описание проекта / Project Description]
+## Table of contents / Оглавление
+[1.Project Description / Описание проекта](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#1.Project-Description-/-Описание-проекта)
 
-### Описание проекта / Project Description
+### 1.Project Description / Описание проекта
+The program guesses a randomly generated number in the minimum number of attempts.
+Программа угадывает случайно сгенерированное число за минимальное количество попыток.
+

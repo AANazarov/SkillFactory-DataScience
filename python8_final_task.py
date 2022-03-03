@@ -4,9 +4,9 @@ Created on Sat Feb 26 00:29:49 2022
 
 @author: Alexander A. Nazarov
 
-This program guesses a randomly generated number in the minimum number of 
-attempts.
-Эта программа угадывает случайно сгенерированное число за минимальное 
+The program guesses a randomly generated number in the minimum number 
+of attempts.
+Программа угадывает случайно сгенерированное число за минимальное 
 количество попыток.
 """
 
