@@ -1,7 +1,7 @@
 # PYTHON-8. Tools for Data Science / Инструменты для Data Science
 
 ## Table of contents / Оглавление
-[1.Project Description / Описание проекта](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#1.Project-Description-/-Описание-проекта)
+[1.Project Description / Описание проекта](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#1.Project-Description-/-Описание-проекта)  
 [2.Algorithms / Алгоритмы](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#2.Algorithms-/-Алгоритмы)
 
 ### 1.Project Description / Описание проекта
