@@ -1,12 +1,13 @@
+[<img src="https://freepngimg.com/download/python_logo/7-2-python-logo-free-download-png-thumb.png" width="80"/>]()  
+*Python 3.10.2*  
+
 # ***PYTHON-8. Tools for Data Science / Инструменты для Data Science***
 ***
-  
-![](https://www.python.org/static/community_logos/python-logo.png)  
-***  
-  
+
 ## ***Theme / Тема:***  
 ## **Final task / Финальное задание**  
 ***  
+
 ### ***Table of contents / Оглавление***
 [Project Description / Описание проекта](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Project-Description-/-Описание-проекта)  
 [Algorithms / Алгоритмы](https://github.com/AANazarov/SkillFactory-DataScience/blob/master/README.md#Algorithms-/-Алгоритмы)  
