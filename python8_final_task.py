@@ -133,4 +133,3 @@ if __name__ == "__main__":
     print(Title.upper(), '\n')
 
     score_game(number_predict, 1000)
-    print('\n') 
