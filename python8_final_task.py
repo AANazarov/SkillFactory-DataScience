@@ -99,7 +99,7 @@ def score_game(func_in, size_in: int=1000) -> int:
     
     # Generating a list of random numbers
     # Генерируем список случайных чисел
-    #np.random.seed(1)
+    np.random.seed(1)
     random_array = np.random.randint(NUMBER_MIN, NUMBER_MAX, size=size_in)
             
     for i, elem in enumerate(random_array):
