@@ -102,7 +102,7 @@ def score_game(func_in, size_in: int=1000) -> int:
     np.random.seed(1)
     random_array = np.random.randint(NUMBER_MIN, NUMBER_MAX, size=size_in)
             
-    for i, elem in enumerate(random_array):
+    for elem in random_array:
         count_ls.append(func_in(elem))
             
     # Determination the average number of attempts
@@ -110,8 +110,7 @@ def score_game(func_in, size_in: int=1000) -> int:
     score = int(np.mean(count_ls))
         
     print(f"Average number of guessing attempts: {score}")
-    
-    
+        
     # Histogram of the number of attempts to guess a random number
     # Гистограмма количества попыток угадать случайное число
     groups = [elem for elem in set(count_ls)]
