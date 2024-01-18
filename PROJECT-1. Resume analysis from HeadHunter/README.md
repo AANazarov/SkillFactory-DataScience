@@ -30,11 +30,11 @@
 ***
 
 ### ***Рекомендации по сборке и запуску проекта***
-Команды для импорт проекта в локальный репозиторий:
+Команды **git** для импорта проекта в локальный репозиторий:
 * `git init`
 * `git remote add origin https://github.com/AANazarov/SkillFactory-DataScience.git` - подключение к удаленному репозиторию, в котором находится проект
-* `git config core.sparsecheckout true`
-* `echo 'PROJECT-1. Resume analysis from HeadHunter' >> .git/info/sparse-checkout`
+* `git config core.sparsecheckout true` - активация функции `sparse checkout` для работы с частью репозитория
+* `echo 'PROJECT-1. Resume analysis from HeadHunter' >> .git/info/sparse-checkout` - добавляем папку с проектом в `sparse checkout`
 * `git pull origin master`
 ***
 
