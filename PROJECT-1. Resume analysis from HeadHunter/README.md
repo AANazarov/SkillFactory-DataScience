@@ -2,7 +2,15 @@
 <img src = 'https://freepngimg.com/download/python_logo/7-2-python-logo-free-download-png-thumb.png' width='70'> </p>
 
 *Python 3.12.0*
-# <font size='5'>*Alexander A. Nazarov, 2023*
+#### <font size='5'>*Alexander A. Nazarov, 2023*
 ***
-# <center> ***PROJECT-1.<p>Resume analysis from HeadHunter / Анализ резюме из HeadHunter***
+# <center> ***PROJECT-1.<p> Анализ резюме из HeadHunter***
+***
+
+## ***Описание проекта***
+В данном проете выполняется первичная обработка и разведочный анализ базы данных резюме из Headhunter.
+***
+
+## ***Описание данных***
+
 ***
