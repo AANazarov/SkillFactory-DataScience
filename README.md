@@ -3,5 +3,5 @@
 Various projects from Skillfactory
 
 ## *Projects*
-* PYTHON-13. Визуализация данных / Data visualization
-* PROJECT-1. Анализ резюме из HeadHunter / Resume analysis from HeadHunter
+* PYTHON-13. Data visualization / Визуализация данных 
+* PROJECT-1. Resume analysis from HeadHunter / Анализ резюме из HeadHunter
